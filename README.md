@@ -1,3 +1,2 @@
-# Python-Music-Experiment\
-this creates a music player that can be controlled using keys on the computer
-it should work if the music and the file are placed in the same folder
+# Python-Music-Experiment
+This software creates a command line music player. Note: It will only work if the music and software files are placed in the same folder.
